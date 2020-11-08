@@ -8,4 +8,4 @@
 
 🎓 English Graduate
 
-📚 Currently studying with (https://thedeveloperacademy.com/ "The Developer Academy") in Sheffield
+📚 Currently studying with [The Developer Academy](https://thedeveloperacademy.com/) in Sheffield
