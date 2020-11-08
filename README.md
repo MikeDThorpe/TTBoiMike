@@ -9,3 +9,9 @@
 🎓 English Graduate
 
 📚 Currently studying with [The Developer Academy](https://thedeveloperacademy.com/) in Sheffield
+
+⚫⚪🔴 Manchester United Fan
+
+⛳ 2.8 golf handicap
+
+🥁 Drummer
