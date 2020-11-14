@@ -1,4 +1,4 @@
-# Hi there i'm Mike Thorpe 👋
+# Hi there, i'm Mike! 👋
 
 ## About me 🤘
 
