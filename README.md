@@ -1,6 +1,6 @@
 # Hi there, i'm Mike! 👋
 
-Feel free to look at my portfolio website 👉 [awebdevnamedmike.co.uk](http://awebdevnamedmike.co.uk/)
+Feel free to look at my portfolio website 👉 [awebdevnamedmike.co.uk](https://awebdevnamedmike.co.uk/)
 
 ## About me 🤘
 
