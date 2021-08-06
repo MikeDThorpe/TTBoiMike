@@ -1,19 +1,21 @@
 # Hi there, i'm Mike! 👋
 
-Feel free to look at my portfolio website 👉 [awebdevnamedmike.co.uk](https://awebdevnamedmike.co.uk/)
-
 ## About me 🤘
 
 📍 Sheffield, UK
 
-🔍 SEO professional learning web development
+💻 Software Developer at the UK Home Office
+
+🔍 SEO professional
 
 🎓 English Graduate
 
-📚 Currently studying with [The Developer Academy](https://thedeveloperacademy.com/) in Sheffield
+📚 Graduate from [The Developer Academy](https://thedeveloperacademy.com/) in Sheffield
 
 ⚫⚪🔴 Manchester United Fan
 
 ⛳ 2.8 golf handicap
 
 🥁 Drummer
+
+📁 Junior Dev portfolio 👉 awebdevnamedmike.co.uk
